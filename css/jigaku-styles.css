@@ -2,6 +2,20 @@
 
 @import 'gaia';
 
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+section {
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+
+}
+
 h1{
     background: linear-gradient(90deg,rgba(131, 160, 230, 1) 1%, rgba(133, 166, 237, 1) 35%, rgba(57, 205, 250, 1) 100%);
     -webkit-text-fill-color: transparent;

@@ -3,7 +3,6 @@ marp: true
 theme: jigaku
 paginate: true
 backgroundColor: #E9EFF5
-footer:
 ---
 
 <div class="col-hl center-box">
@@ -14,6 +13,7 @@ footer:
 
 
  ---
+ <!-- header:  素早いスライド作りに役立つ技術-->
 <!--
 _class:
  - lead
@@ -45,4 +45,11 @@ _class:
 - 限られた時間でどこまで作れるか
 - 見やすければ美しさは妥協
 ---
-![bg left:90% 60%](https://marp.app/assets/marp.svg)
+# MARP
+- マークダウンでスライドを作成
+- Gitで管理できるのでホスティングとファイル管理がスムーズに
+    - スライドを自分でホストできると嬉しい
+
+-> キーボードだけでスライドが作れる(!)
+---
+
